@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8aa9b3f1.css",
+    "main.js": "/static/js/main.a070587b.js",
+    "static/media/block_defira.png": "/static/media/block_defira.ff33293f97a9b5c5ffab.png",
+    "static/media/web_travel.png": "/static/media/web_travel.2b425b5bd0a88903b93a.png",
+    "static/media/block_mon.png": "/static/media/block_mon.c0c8c7d7fc3305d35697.png",
+    "static/media/web_ecommerce.png": "/static/media/web_ecommerce.5c2d0a8227c8d9d7924a.png",
+    "static/media/block_coffee.png": "/static/media/block_coffee.6b8d02b32c1850952536.png",
+    "static/media/block_affyn.png": "/static/media/block_affyn.7f7db0dc1cf1d28bc8a7.png",
+    "static/media/web_blr.png": "/static/media/web_blr.486b9db85e09a6e3011e.png",
+    "static/media/web_real_estate.png": "/static/media/web_real_estate.42c8aa8ae3bf6da1f422.png",
+    "static/media/web_hospital.png": "/static/media/web_hospital.c68bf362898aa58e0db5.png",
+    "static/media/web_family.png": "/static/media/web_family.1785ca57f7dccaa10402.png",
+    "static/media/block_myria.png": "/static/media/block_myria.6fe5a159e2aad90bfed9.png",
+    "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
+    "static/media/web_game.png": "/static/media/web_game.c0bdf6fabf6e979962de.png",
+    "static/media/web_chat.png": "/static/media/web_chat.7901771e101040ce7240.png",
+    "static/media/block_squ.png": "/static/media/block_squ.c436ed31751574a05c92.png",
+    "static/media/CV.pdf": "/static/media/CV.cdabb641025e359ebf86.pdf",
+    "static/media/web_social.png": "/static/media/web_social.1580b627e26f9cd0cc94.png",
+    "static/media/mo_ion.png": "/static/media/mo_ion.a0d10b638ef0cb6bfe10.png",
+    "static/media/mo_esport.png": "/static/media/mo_esport.093c842339a62201f38f.png",
+    "static/media/globe2.svg": "/static/media/globe2.40bed93b8c9e387b3ec4713c7a7fa231.svg",
+    "static/media/youtube.svg": "/static/media/youtube.1d26071402f4b2c4c4db63cd1137f514.svg",
+    "index.html": "/index.html",
+    "main.8aa9b3f1.css.map": "/static/css/main.8aa9b3f1.css.map",
+    "main.a070587b.js.map": "/static/js/main.a070587b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa9b3f1.css",
+    "static/js/main.a070587b.js"
+  ]
+}
